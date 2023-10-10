@@ -110,12 +110,13 @@ body{
 }
 
 .logo{
-    width: 3em;
-    margin-right: 15px;
-    padding: 5px;
+    width: 2.9em;
+    height:auto;
+    margin-right: 22px;
 }
 
 .profile{
+    border: 1px solid gray;
     margin-left: 10px;
     margin-top: 10px;
 }
@@ -133,6 +134,7 @@ body{
 }
 
 .box-image{
+    border: 1px solid gray;
     display: block;
     margin-left: auto;
     margin-right: auto;
