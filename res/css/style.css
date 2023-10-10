@@ -150,3 +150,29 @@ button[type=submit]{
     border-radius: 15px;
     cursor: pointer;
 }
+
+bold p{
+    font-weight: bold;
+}
+
+bold2 > p{
+    font-weight: bold;
+}
+
+div + .footer{
+    font-weight: bold;
+}
+
+form ~ p {
+    color:blue;
+    text-align: center;
+    cursor: pointer;
+    padding: 5px 5px;
+    line-height: 2;
+  }
+
+  form ~ p:hover{
+    background-color: #7ebeb6;
+    color: #092747;
+
+}
