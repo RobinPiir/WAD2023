@@ -70,9 +70,14 @@
 
 /*  CSS for Login  */
 .center{
+    display: flex;
+    flex-direction: column;
     position: absolute;
-    top:35%;
-    right:45%;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 10px;
@@ -80,10 +85,9 @@
     border: 1px solid #646174;
     background-color: lightgray;
     border-radius: 5px;
-    text-align: center;
 }
 
-.login{
+#login{
     color:blue;
     text-align: center;
     cursor: pointer;
@@ -91,10 +95,10 @@
     line-height: 2;
 }
 
-.login:hover{
+#login:hover{
     background-color: #7ebeb6;
     color: #092747;
-    padding: 2px 2px;
+
 }
 
 input[type=email],input[type=password] {
@@ -106,6 +110,7 @@ input[type=email],input[type=password] {
 }
 
 button[type=submit]{
+
     background-color: #04AA6D;
     border: none;
     color: white;
@@ -114,4 +119,3 @@ button[type=submit]{
     border-radius: 15px;
     cursor: pointer;
 }
-
