@@ -130,7 +130,8 @@ body{
 
 .comment{
     margin-top: 20px;
-    margin-left: 10px;
+    margin-left: 25px;
+    vertical-align: top;
 }
 
 .box-image{
@@ -219,4 +220,10 @@ form ~ p {
     background-color: #7ebeb6;
     color: #092747;
 
+}
+
+header time{
+    margin-right: 35px;
+    text-align: right;
+    display: block;
 }
