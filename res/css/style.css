@@ -68,6 +68,37 @@
     border-radius: 5px;
 }
 
+/* CSS for index */
+body{
+    background-color: #646174;
+ }
+.contentfield{
+    background-color: white;
+    width:60%;
+    height: auto;
+    margin: 0 auto;
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 7em;
+}
+.container{
+    margin-top:7%;
+    width:inherit;
+    border:1px solid gray;
+    box-shadow: 5px 5px 20px #888888;
+    border-radius: 5px;
+}
+
+.box-image{
+    background-color: gray;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:auto;
+    max-height: 20em;
+ }
+
 /*  CSS for Login  */
 .center{
     display: flex;
