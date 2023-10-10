@@ -91,6 +91,27 @@ body{
     border-radius: 5px;
 }
 
+.logo{
+    width: 3em;
+    margin-right: 15px;
+}
+
+.profile{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.like-button{
+    margin-left: 10px;
+    margin-bottom: 10px;
+    width: 3em;
+}
+
+.comment{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
 .box-image{
     display: block;
     margin-left: auto;
