@@ -6,7 +6,7 @@
 .header {
     padding-top: .5em;
     padding-bottom: .5em;
-    border: 1px solid #646174;
+    border: 10px solid #646174;
     background-color: lightgray;
     border-radius: 5px;
 }
@@ -74,6 +74,7 @@ body{
  }
 .contentfield{
     background-color: lightgray;
+    border: 10px solid lightgray;
     width:60%;
     height: auto;
     margin: 0 auto;
