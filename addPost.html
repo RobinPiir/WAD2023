@@ -14,9 +14,20 @@
         </ul>
         <a class="logo" href="login.html"><img src="res/images/me.png" width="50" height="50" alt="My picture"></a>
     </header>
+    <div class="center">
+        <b>
+            WELCOME TO POST IT<br>
+        </b>
+        <p id="login">Create a Post<br></p>
+        <form action="process_post.php" method="POST" enctype="multipart/form-data">
+            <textarea name="post_content" placeholder="Write your post here" rows="4" cols="50" required></textarea><br>
+            <input type="file" name="post_image" accept="image/*">
+            <button type="submit">Create Post</button><br>
+        </form>
+    </div>  
     <footer class="footer">
         <p>
-            Authors: Robin Piir, Karolin Kerro, Roland-Carlis Vares
+            Authors: Robin Piir, Karolin Kerro, Roland-Carlis Var
         </p>
     </footer>
 </body>
