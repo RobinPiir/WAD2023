@@ -6,8 +6,8 @@
 .header {
     padding-top: .5em;
     padding-bottom: .5em;
-    border: 10px solid #646174;
-    background-color: lightgray;
+    border: 1px solid black;
+    background-color: #BED6B8;
     border-radius: 5px;
 }
 
@@ -31,9 +31,9 @@
             color: #092747;
         }
 
-/*  Applies when the browser's width is 800px wide or wider:  */
+/*  Applies when the browser's width is 600px wide or wider:  */
 
-@media (min-width: 800px) {
+@media (min-width: 600px) {
     .header,
     .nav {
         display: flex;
@@ -43,6 +43,15 @@
         flex-direction: column;
         align-items: center;
     }
+
+    .contentfield{
+        width:60%;
+    }
+
+    .container{
+        width:inherit;
+    }
+
 }
 
 /*  Applies when the browser's width is 1000px wide or wider:  */
@@ -51,6 +60,12 @@
     .header {
         flex-direction: row;
         justify-content: space-between;
+    }
+
+    .contentfield{
+        display:flex;
+        width:60%;
+        height: auto;
     }
 }
 
@@ -63,21 +78,22 @@
     padding-top: .5em;
     padding-bottom: .5em;
     border: 1px solid #646174;
-    background-color: lightgray;
+    background-color: #BED6B8;
     text-align: center;
     border-radius: 5px;
 }
 
 /* CSS for index */
 body{
-    background-color: #646174;
+    background-color: #DDFACD;
  }
 .contentfield{
-    background-color: lightgray;
-    border: 10px solid lightgray;
-    width:60%;
+    background-color: #B1CDA4;
+    border: 1px solid black;
     height: auto;
-    margin: 0 auto;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
     display:flex;
     align-items: center;
     flex-direction: column;
@@ -86,7 +102,8 @@ body{
 .container{
     background-color: white;
     margin-top:7%;
-    width:inherit;
+    width: inherit;
+    min-width: 300px;
     border:1px solid gray;
     box-shadow: 5px 5px 20px #888888;
     border-radius: 5px;
@@ -119,6 +136,7 @@ body{
     margin-right: auto;
     width:auto;
     max-height: 20em;
+    max-width: 100%;
  }
 
 /*  CSS for Login  */
