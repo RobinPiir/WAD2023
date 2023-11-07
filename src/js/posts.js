@@ -51,8 +51,8 @@ class UserPost{
         let header=
         '<header class="box-header">' +
             '<img class="profile" src="'+ this.author.avatar + '" width="50" height="50" alt="Post author">'+
-            '<p>'+this.author.name+'</p>'+
-          '<time>'+ this.createTime+'</time>'+
+            '<p class="post-author"> '+this.author.name+'</p>'+
+          '<time class="post-date">'+ this.createTime+'</time>'+
         '</header>';
 
        let postBody= "";

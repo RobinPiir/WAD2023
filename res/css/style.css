@@ -130,8 +130,21 @@ body{
 
 .comment{
     margin-top: 20px;
-    margin-left: 25px;
+    margin-left: 40px;
     vertical-align: top;
+}
+
+.post-author{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+    margin-bottom: 50px;
+}
+
+.post-date{
+    vertical-align: middle;
+    margin-top: 20px;
+    float: right;
 }
 
 .box-image{
