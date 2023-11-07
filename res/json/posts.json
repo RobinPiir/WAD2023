@@ -1,8 +1,80 @@
 [{
     "id": 1,
+    "createTime": "07.11.2023",
+    "authorName": "Roland-Carlis Vares",
+    "authorAvatar": "res/images/Vares.png",
+    "body":"joujou",
+    "image":"res/images/pic1.png"
+},
+{
+    "id": 2,
+    "createTime": "03.11.2023",
+    "authorName": "Robin Piir",
+    "authorAvatar": "res/images/Piir.png",
+    "body":"joujou",
+    "image":null
+},
+{
+    "id": 3,
+    "createTime": "24.10.2023",
+    "authorName": "Roland-Carlis Vares",
+    "authorAvatar": "res/images/Vares.png",
+    "body":"joujou",
+    "image":"res/images/pic1.png"
+},
+{
+    "id": 4,
+    "createTime": "14.10.2023",
+    "authorName": "Karolin Kerro",
+    "authorAvatar": "res/images/Kerro.png",
+    "body":"joujou",
+    "image":null
+},
+{
+    "id": 5,
+    "createTime": "12.10.2023",
+    "authorName": "Robin Piir",
+    "authorAvatar": "res/images/Piir.png",
+    "body":"joujou",
+    "image":null
+},
+{
+    "id": 6,
     "createTime": "10.10.2023",
     "authorName": "Robin Piir",
-    "authorAvatar": "res/images/me.png",
+    "authorAvatar": "res/images/Piir.png",
     "body":"joujou",
+    "image":"res/images/pic1.png"
+},
+{
+    "id": 7,
+    "createTime": "23.09.2023",
+    "authorName": "Roland-Carlis Vares",
+    "authorAvatar": "res/images/Vares.png",
+    "body":"joujou",
+    "image":null
+},
+{
+    "id": 8,
+    "createTime": "10.09.2023",
+    "authorName": "Robin Piir",
+    "authorAvatar": "res/images/Piir.png",
+    "body":"joujou",
+    "image":"res/images/pic1.png"
+},
+{
+    "id": 9,
+    "createTime": "28.08.2023",
+    "authorName": "Roland-Carlis Vares",
+    "authorAvatar": "res/images/Vares.png",
+    "body":"joujou",
+    "image":null
+},
+{
+    "id": 10,
+    "createTime": "20.08.2023",
+    "authorName": "Karolin Kerro",
+    "authorAvatar": "res/images/Kerro.png",
+    "body":"IT'S MY BIRTHDAY!",
     "image":"res/images/pic1.png"
 }]
