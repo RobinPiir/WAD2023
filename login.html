@@ -12,7 +12,16 @@
             <a href="index.html">Home</a>
             <a href="addPost.html">Add Post</a>
         </ul>
-        <a class="logo" href="login.html"><img src="res/images/me.png" width="50" height="50" alt="My picture"></a>
+        <div class="dropdown">
+            <button onclick="toggleDropdown()" class="dropdown">
+                <img src="res/images/me.png" width="50" height="50" alt="My picture">
+                <div id="dropdown-menu" class="dropdown-content">
+                    <a href="#">John Doe</a>
+                    <a href="#">john.doe@ut.ee</a>
+                    <b href="#">Logout</b>
+                </div>
+            </button>
+        </div>
     </header>
     <div class="center">
         <bold>
@@ -41,5 +50,7 @@
             Authors: Robin Piir, Karolin Kerro, Roland-Carlis Vares
         </p>
     </footer>
+
+<script src="dropdown.js"></script>
 </body>
 </html>
