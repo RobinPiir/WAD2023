@@ -77,4 +77,12 @@
     "authorAvatar": "res/images/Kerro.png",
     "body":"Painting in nature",
     "image":"res/images/picnic.png"
+},
+{
+    "id": 11,
+    "createTime": "69.420.911",
+    "authorName": "Robin Piir",
+    "authorAvatar": "res/images/Piir.png",
+    "body":"Fortnite players are good",
+    "image":null
 }]
