@@ -134,6 +134,19 @@ body{
     vertical-align: top;
 }
 
+.post-author{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+    margin-bottom: 50px;
+}
+
+.post-date{
+    vertical-align: middle;
+    margin-top: 20px;
+    float: right;
+}
+
 .box-image{
     border: 1px solid gray;
     display: block;
