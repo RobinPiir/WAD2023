@@ -3,15 +3,15 @@
     "createTime": "07.11.2023",
     "authorName": "Roland-Carlis Vares",
     "authorAvatar": "res/images/Vares.png",
-    "body":"joujou",
-    "image":"res/images/pic1.png"
+    "body":"Willow",
+    "image":"res/images/pic3.png"
 },
 {
     "id": 2,
     "createTime": "03.11.2023",
     "authorName": "Robin Piir",
     "authorAvatar": "res/images/Piir.png",
-    "body":"joujou",
+    "body":"My head hurts",
     "image":null
 },
 {
@@ -19,15 +19,15 @@
     "createTime": "24.10.2023",
     "authorName": "Roland-Carlis Vares",
     "authorAvatar": "res/images/Vares.png",
-    "body":"joujou",
-    "image":"res/images/pic1.png"
+    "body":"Munch",
+    "image":"res/images/Munch.png"
 },
 {
     "id": 4,
     "createTime": "14.10.2023",
     "authorName": "Karolin Kerro",
     "authorAvatar": "res/images/Kerro.png",
-    "body":"joujou",
+    "body":"Off to school!",
     "image":null
 },
 {
@@ -35,7 +35,7 @@
     "createTime": "12.10.2023",
     "authorName": "Robin Piir",
     "authorAvatar": "res/images/Piir.png",
-    "body":"joujou",
+    "body":"Anyone know any good coffee places?",
     "image":null
 },
 {
@@ -43,7 +43,7 @@
     "createTime": "10.10.2023",
     "authorName": "Robin Piir",
     "authorAvatar": "res/images/Piir.png",
-    "body":"joujou",
+    "body":"Caesar",
     "image":"res/images/pic1.png"
 },
 {
@@ -51,7 +51,7 @@
     "createTime": "23.09.2023",
     "authorName": "Roland-Carlis Vares",
     "authorAvatar": "res/images/Vares.png",
-    "body":"joujou",
+    "body":"Kebab",
     "image":null
 },
 {
@@ -59,15 +59,15 @@
     "createTime": "10.09.2023",
     "authorName": "Robin Piir",
     "authorAvatar": "res/images/Piir.png",
-    "body":"joujou",
-    "image":"res/images/pic1.png"
+    "body":"Luci",
+    "image":"res/images/pic2.png"
 },
 {
     "id": 9,
     "createTime": "28.08.2023",
     "authorName": "Roland-Carlis Vares",
     "authorAvatar": "res/images/Vares.png",
-    "body":"joujou",
+    "body":"Off to my first class of the semester",
     "image":null
 },
 {
@@ -75,6 +75,6 @@
     "createTime": "20.08.2023",
     "authorName": "Karolin Kerro",
     "authorAvatar": "res/images/Kerro.png",
-    "body":"IT'S MY BIRTHDAY!",
-    "image":"res/images/pic1.png"
+    "body":"Painting in nature",
+    "image":"res/images/picnic.png"
 }]
