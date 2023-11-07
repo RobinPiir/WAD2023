@@ -1,9 +1,9 @@
 $(function() {
     //Json query
-    $.get( "res/json/posts.json", function( data ) {
+    $.get( "https://raw.githubusercontent.com/RobinPiir/WAD2023/main/res/json/posts.json", function( data ) {
         console.log(data);
         $( ".result" ).html( data );
-        $.each(data, function( index, value ) {
+        $.each(JSON.parse(data), function( index, value ) {
 
             let postAuthor = new User(value.authorName, value.authorAvatar)
             
