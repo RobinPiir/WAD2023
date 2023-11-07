@@ -1,7 +1,8 @@
 [{
-    "createTime": "10.10.2023",
-    "userId": 1,
     "id": 1,
-    "body": "",
-    "image":""
+    "createTime": "10.10.2023",
+    "authorName": "Robin Piir",
+    "authorAvatar": "res/images/me.png",
+    "body":"joujou",
+    "image":"res/images/pic1.png"
 }]
